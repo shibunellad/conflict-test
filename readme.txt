@@ -1,6 +1,5 @@
 Introduction
 
 ========
-
-This is a jaca project. This uses JDK, JML, Servlets
+This is a java based application. This uses JDK, JML, Servlets
 
